@@ -1,0 +1,6 @@
+export * from './SearchMovie'
+export * from './SuggestSearchMovie'
+export * from '../view/NotLookingForAnything.jsx'
+export * from './MovieGrid'
+export * from './MovieItem'
+export * from './Footer'
